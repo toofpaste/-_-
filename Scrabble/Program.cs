@@ -7,12 +7,12 @@ namespace Scrabble
         public static void Main()
         {
             Console.WriteLine("Enter a word :");
-            string userWord = Console.ReadLine();
+            string ಠ___ಠ  = Console.ReadLine();
 
 
-            Letters mikeIsABitch = new Letters(userWord);
+            Letters ಠᴗಠ = new Letters(ಠ___ಠ);
 
-            Console.WriteLine("Score: " + mikeIsABitch.GetScore(mikeIsABitch.GetWord()));
+            Console.WriteLine("Score: " + ಠᴗಠ.GetScore(ಠᴗಠ.GetWord()));
         }
     }
 }
